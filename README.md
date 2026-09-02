@@ -1,35 +1,79 @@
-<h1 align="center"> Mithula Artigala</h1>
-Hi there! I am Mithula Artigala. I love local AI and integrating local models into apps.
+<div align="center">
 
-### Most Notable Projects
+<h1>Mithula Artigala</h1>
 
-- [ONCard](https://github.com/MightyXdash/ONCard): Local study app which uses ML models to track your progress and help you study
-- [QyrouCode](https://github.com/MightyXdash/QyrouCode): Uses local reasoning models to do agentic coding inspired by OpenCode
+<p>
+  Hi there! I am Mithula Artigala.<br>
+  I love local AI and integrating local models into apps.
+</p>
 
-### How to Reach Me
+<p>
+  <kbd>Local AI</kbd>
+  <kbd>Machine Learning</kbd>
+  <kbd>Rust</kbd>
+  <kbd>Python</kbd>
+</p>
 
-- **Email:** *artigalamithula@gmail.com*
-- **Discord:** *only__mighty*
+</div>
 
-#### Socials
+<br>
 
-- **GitHub:** Bruh... You are LITERALLY HERE!
-- **HuggingFace:** [QyrouNnet-AI](https://huggingface.co/Qyrou)
-- **LinkedIn:** [Mithula](https://www.linkedin.com/in/mithula-artigala-899153370/)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-If you found my work helpful, you can help me by following me or starring your favorite repo! 😄
+<h3>🧠 ONCard</h3>
 
-<!--
-**MightyXdash/MightyXdash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Local study app which uses ML models to track your progress and help you study.
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="YOUR_LINK"><b>View project →</b></a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>⚡ QyrouCode</h3>
+
+Uses local reasoning models to do agentic coding inspired by OpenCode.
+
+<br><br>
+
+<a href="YOUR_LINK"><b>View project →</b></a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<h2>How to Reach Me</h2>
+
+<table>
+<tr>
+<td><b>Email</b></td>
+<td><a href="mailto:artigalamithula@gmail.com">artigalamithula@gmail.com</a></td>
+</tr>
+
+<tr>
+<td><b>Discord</b></td>
+<td><code>only_mighty</code></td>
+</tr>
+</table>
+
+<br>
+
+<h2>Socials</h2>
+
+<p>
+<b>GitHub:</b> Bruh... You are LITERALLY HERE!<br>
+<b>Hugging Face:</b> <a href="#">QyrouNet-AI</a><br>
+<b>LinkedIn:</b> <a href="#">Mithula</a>
+</p>
+
+<hr>
+
+<div align="center">
+<sub>If you found my work helpful, you can help me by following me or starring your favorite repo! 😁</sub>
+</div>
