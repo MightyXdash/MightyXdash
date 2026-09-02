@@ -26,7 +26,7 @@
 
 Local study app which uses ML models to track your progress and help you study.
 
-<br><br>
+<br>
 
 <a href="YOUR_LINK"><b>View project →</b></a>
 
@@ -38,7 +38,7 @@ Local study app which uses ML models to track your progress and help you study.
 
 Uses local reasoning models to do agentic coding inspired by OpenCode.
 
-<br><br>
+<br>
 
 <a href="YOUR_LINK"><b>View project →</b></a>
 
