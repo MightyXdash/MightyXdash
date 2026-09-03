@@ -58,7 +58,7 @@ Uses local reasoning models to do agentic coding inspired by OpenCode.
 
 <tr>
 <td><b>Discord</b></td>
-<td><code>only_mighty</code></td>
+<td><code>only__mighty</code></td>
 </tr>
 </table>
 
